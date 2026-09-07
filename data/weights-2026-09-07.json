@@ -1,0 +1,133 @@
+{
+  "index": {
+    "name": "Flock Meme Index",
+    "symbol": "FMI",
+    "navPerTokenUsd": 25
+  },
+  "methodologyVersion": "1.0.0",
+  "generatedAt": "2026-09-07T21:15:05.410Z",
+  "source": "Jupiter tokens/v2 verified set",
+  "universeSize": 3203,
+  "candidateSize": 824,
+  "rules": {
+    "categoryTag": "meme",
+    "excludedTags": [
+      "token-2022",
+      "stable",
+      "rwa",
+      "stocks",
+      "xstocks",
+      "equities",
+      "lst",
+      "original-lst"
+    ],
+    "minMarketCapUsd": 25000000,
+    "minLiquidityUsd": 1000000,
+    "minHolders": 25000,
+    "minAgeDays": 180,
+    "minOrganicScore": 60,
+    "minOrganicVolume24hUsd": 50000,
+    "maxTopHoldersPercentage": 40,
+    "liquidityCapMultiple": 25,
+    "maxConstituents": 8,
+    "maxWeightBps": 2500,
+    "minWeightBps": 500,
+    "retentionSlack": 0.8
+  },
+  "constituents": [
+    {
+      "mint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+      "symbol": "Fartcoin",
+      "decimals": 6,
+      "score": 12470.627233882384,
+      "weightBps": 2014,
+      "marketCapUsd": 172243206.02363688,
+      "liquidityUsd": 6220661.74425796,
+      "holderCount": 177572,
+      "organicScore": 91.17670029755456,
+      "topHoldersPercentage": 33.49251252570114,
+      "usdPrice": 0.17224763799852855
+    },
+    {
+      "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+      "symbol": "$WIF",
+      "decimals": 6,
+      "score": 12399.554691238047,
+      "weightBps": 2003,
+      "marketCapUsd": 216262203.5255145,
+      "liquidityUsd": 6149958.261640139,
+      "holderCount": 258595,
+      "organicScore": 85.10598603057869,
+      "topHoldersPercentage": 31.866355944537805,
+      "usdPrice": 0.21651362110665387
+    },
+    {
+      "mint": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+      "symbol": "USELESS",
+      "decimals": 6,
+      "score": 10127.134616358868,
+      "weightBps": 1636,
+      "marketCapUsd": 226351439.00927782,
+      "liquidityUsd": 4102354.2215141626,
+      "holderCount": 56000,
+      "organicScore": 96.33942849869014,
+      "topHoldersPercentage": 27.201158919920882,
+      "usdPrice": 0.22655902385436882
+    },
+    {
+      "mint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "symbol": "PENGU",
+      "decimals": 6,
+      "score": 8208.081674463183,
+      "weightBps": 1326,
+      "marketCapUsd": 656922562.1541597,
+      "liquidityUsd": 2694904.1909863334,
+      "holderCount": 554228,
+      "organicScore": 90.07731767155748,
+      "topHoldersPercentage": 38.763185770197744,
+      "usdPrice": 0.008562281376064514
+    },
+    {
+      "mint": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+      "symbol": "POPCAT",
+      "decimals": 9,
+      "score": 7158.412550830177,
+      "weightBps": 1156,
+      "marketCapUsd": 51242870.247883,
+      "liquidityUsd": 4455208.0786308935,
+      "holderCount": 141930,
+      "organicScore": 79.03950500155717,
+      "topHoldersPercentage": 38.762248980148286,
+      "usdPrice": 0.05229207292347983
+    },
+    {
+      "mint": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+      "symbol": "TROLL",
+      "decimals": 6,
+      "score": 6405.750829271028,
+      "weightBps": 1035,
+      "marketCapUsd": 46660260.164487004,
+      "liquidityUsd": 1641345.7474682587,
+      "holderCount": 67100,
+      "organicScore": 86.80478834485385,
+      "topHoldersPercentage": 23.948036820468207,
+      "usdPrice": 0.046717750470331526
+    },
+    {
+      "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "symbol": "Bonk",
+      "decimals": 5,
+      "score": 5140.5991019262,
+      "weightBps": 830,
+      "marketCapUsd": 278480428.5709039,
+      "liquidityUsd": 1057030.3650689782,
+      "holderCount": 1013993,
+      "organicScore": 89.92611678131003,
+      "topHoldersPercentage": 31.795020864146935,
+      "usdPrice": 0.0000031647469087077764
+    }
+  ],
+  "totalWeightBps": 10000,
+  "indexMarketCapUsd": 1648162969.6958628,
+  "indexLiquidityUsd": 26321462.60956673
+}
