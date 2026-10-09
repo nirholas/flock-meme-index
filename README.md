@@ -67,3 +67,7 @@ deployed nowhere, and this repository does not hold a launch key. `npm run propo
 command that would launch it.
 
 MIT.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/flock-meme-index&type=Date)](https://www.star-history.com/#nirholas/flock-meme-index&Date)
