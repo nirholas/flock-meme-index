@@ -71,3 +71,13 @@ MIT.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/flock-meme-index&type=Date)](https://www.star-history.com/#nirholas/flock-meme-index&Date)
+
+<!-- nirholas:watermark -->
+
+---
+
+<p align="center">
+  Built by <a href="https://github.com/nirholas"><b>nirholas</b></a> · <a href="https://x.com/nichxbt">@nichxbt</a> · <a href="https://github.com/nirholas">github.com/nirholas</a>
+</p>
+
+<!-- /nirholas:watermark -->
