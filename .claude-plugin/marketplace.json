@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "flock-meme-index",
-      "source": "./",
+      "source": "./plugins/flock-meme-index",
       "description": "Screen the live Jupiter verified set against the Flock Meme Index methodology and print the rebalance command.",
+      "category": "development",
       "tags": [
         "solana",
         "index-fund",
