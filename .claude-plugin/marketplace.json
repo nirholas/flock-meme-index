@@ -1,0 +1,22 @@
+{
+  "name": "flock-meme-index",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Screen the live Jupiter verified set against the Flock Meme Index methodology and print the rebalance command.",
+  "plugins": [
+    {
+      "name": "flock-meme-index",
+      "source": "./",
+      "description": "Screen the live Jupiter verified set against the Flock Meme Index methodology and print the rebalance command.",
+      "tags": [
+        "solana",
+        "index-fund",
+        "screening",
+        "rebalancing",
+        "jupiter",
+        "methodology"
+      ]
+    }
+  ]
+}
